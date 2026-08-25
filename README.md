@@ -1,2 +1,2 @@
 # haran-filter
-An Haran filter implementation in MATLAB.
+A Haran filter implementation in MATLAB.
